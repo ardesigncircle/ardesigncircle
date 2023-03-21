@@ -11,7 +11,7 @@ let GoSleep = [
 
 let goodNight = Math.floor(Math.random() * GoSleep.length);
 
-GoSleep[goodNight]);
+GoSleep[goodNight];
 ```
 
 
