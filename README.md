@@ -1,7 +1,7 @@
 
 ```ruby
 
-const [sleep, setSleep] = React.useState([]);
+
 
 let GoSleep = [
 
@@ -11,7 +11,7 @@ let GoSleep = [
 
 let goodNight = Math.floor(Math.random() * GoSleep.length);
 
-setSleep(GoSleep[goodNight]);
+GoSleep[goodNight]);
 ```
 
 
