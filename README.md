@@ -13,7 +13,7 @@ let goodNight = Math.floor(Math.random() * GoSleep.length);
 
 setSleep(GoSleep[goodNight]);
 
-<div style={ backgroundColor: sleep}>Hello World!</div>
+<section style={ backgroundColor: sleep}>Hello World</section>
 ```
 
 
